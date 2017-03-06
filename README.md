@@ -21,14 +21,14 @@ Well, for the most part it follows the steps described in [Codecademy's React Se
 
 ## FAQ
 
-** How can I contribute? **
+**How can I contribute?**
 
 I created this script in a couple of hours, just to make my life easier. If you want to add your version of the script, submit a pull request with your version **preserving** the original script. The more configurations and setups that can be added to the repository, the better.
 
-** Does the script work on Windows/Linux/Mac? **
+**Does the script work on Windows/Linux/Mac?**
 
 I wrote and tested the script on Windows 7. Linux support will soon be available (the script might not even require tweaks). Mac support is not in the works, as I cannot test it. If you read this and want to help with that, please do!
 
-** Is this free? **
+**Is this free?**
 
 Yes, the project is licensed under the MIT license and is totally free to use. If you are feeling generous, give it a Star and maybe mention my name in your project's credits. Or don't, I won't mind either way!
