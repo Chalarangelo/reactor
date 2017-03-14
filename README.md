@@ -27,7 +27,7 @@ I created this script in a couple of hours, just to make my life easier. If you 
 
 **Does the script work on Windows/Linux/Mac?**
 
-I wrote and tested the script on Windows 7. Linux support will soon be available (the script might not even require tweaks). Mac support is not in the works, as I cannot test it. If you read this and want to help with that, please do!
+I wrote and tested the origin al script on Windows 7. Linux support ahs been added, tests have been run on UbuntuGnome 16.04 LTS. Mac support is not yet in the works, as I cannot test it. If you read this and want to help with that, please do!
 
 **Is this free?**
 
